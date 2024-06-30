@@ -1,0 +1,20 @@
+Index: 测试.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>2\r\n4\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8\r\n9\r\n10\r\n11\r\n12\r\n13\r\n14\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/测试.txt b/测试.txt
+--- a/测试.txt	(revision 86d451984c551b6529548a483e777aeee6876222)
++++ b/测试.txt	(date 1719718628077)
+@@ -1,7 +1,7 @@
+-2
++5
+ 4
+ 2
+-3
++1
+ 4
+ 5
+ 6
